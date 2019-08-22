@@ -1,7 +1,10 @@
-# SFOSC SourceCred cronjob
+# Archived
 
-[![Build Status](https://drone.sfosc.robin-it.com/api/badges/Beanow/sfosc-sourcecred-cron/status.svg)](https://drone.sfosc.robin-it.com/Beanow/sfosc-sourcecred-cron)
+This is now implemented in https://github.com/sfosc/sourcecred
+
 [![SourceCred prototype](https://badgen.net/badge/SourceCred/prototype)](https://sfosc.org/sourcecred/prototype/)
+
+---
 
 Early prototype analyzing SourceCred for SFOSC repositories.
 
